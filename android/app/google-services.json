@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685621499578",
+    "project_id": "councillor-app-6f118",
+    "storage_bucket": "councillor-app-6f118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685621499578:android:9014c79fa6ff16f4a85483",
+        "android_client_info": {
+          "package_name": "com.myproject.urban_council"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSAUAR18PqKAKuBUv0AeNF3yoTKl4Hg8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
